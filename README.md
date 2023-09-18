@@ -1,2 +1,2 @@
 # Ashish-demo
-This is a demo for git &amp; github class 
+This is a Demo for Git &amp; Github Class. 
